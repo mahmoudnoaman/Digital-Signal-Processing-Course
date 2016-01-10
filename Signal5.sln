@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignalProcessing5", "DigitalSignalProcessing5\DigitalSignalProcessing5.csproj", "{CE420F1D-AC06-4B98-BC6D-9FA0D390E55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAlgorithms", "DigitalAlgorithms\DigitalAlgorithms.csproj", "{48C18B97-403D-4A23-B449-15E35AEA07AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE420F1D-AC06-4B98-BC6D-9FA0D390E55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE420F1D-AC06-4B98-BC6D-9FA0D390E55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE420F1D-AC06-4B98-BC6D-9FA0D390E55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE420F1D-AC06-4B98-BC6D-9FA0D390E55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C18B97-403D-4A23-B449-15E35AEA07AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C18B97-403D-4A23-B449-15E35AEA07AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C18B97-403D-4A23-B449-15E35AEA07AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C18B97-403D-4A23-B449-15E35AEA07AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
